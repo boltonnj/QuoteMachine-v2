@@ -1,0 +1,61 @@
+div {
+  
+}
+
+body {
+  background: lightblue;
+}
+
+#navBtns {
+  display: inline;
+}
+
+header {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#message-box {
+  position: relative;
+  background: tan;
+  border: 5px solid white;
+  margin: 2% auto auto auto;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  width: 60%;
+  height: auto;
+  overflow: hidden;
+}
+#quotation{
+  float: left;
+  font-size: 600%;
+  
+}
+#newQuote{
+  font-size: 150%;
+  font-family: 'Lemonada', cursive;
+}
+#newAuthor {
+  font-size: 110%;
+  text-align: right;
+  margin: 10px auto;
+}
+#source{
+  font-family: 'Athiti', sans-serif;
+}
+button {
+  background: black;
+  color: white;
+  padding: 7px auto;
+  float: right;
+ 
+  margin: auto 5px;
+}
+
+footer {
+  padding-top: 50px;
+  text-align: right;
+}
